@@ -1,5 +1,3 @@
-# Farzad Ferdous
-
 <h1 align="center">Hey, I'm Farzad 👋</h1>
 
 <p align="center">
