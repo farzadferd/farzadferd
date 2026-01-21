@@ -25,7 +25,7 @@
 `React` `Springboot` `Node.js` `Express.js` `Next.js` `Socket.io (Web Sockets)` `Tailwind CSS`
 
 **Databases & Storage:**  
-`PostgreSQL` `MongoDB` `Redis` `Firebase` `Supabase` `Firebase`
+`PostgreSQL` `MongoDB` `Redis` `Firebase` `Supabase`
 
 **AI/ML & LLM Tools:**  
 `OpenAI API` `DeepSeek API` `HuggingFace` `LangChain` `RAG` `pandas` `NumPy` `scikit-learn` `TensorFlow` `PyTorch`
