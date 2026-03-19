@@ -28,7 +28,7 @@
 `PostgreSQL` `MongoDB` `Redis` `Firebase` `Supabase`
 
 **AI/ML & LLM Tools:**  
-`OpenAI API` `DeepSeek API` `HuggingFace` `LangChain` `RAG` `pandas` `NumPy` `scikit-learn` `TensorFlow` `PyTorch`
+`OpenAI API` `DeepSeek API` `HuggingFace` `LangChain` `RAG` `Vector DBs` `LangGraph` `pandas` `NumPy` `scikit-learn` `TensorFlow` `PyTorch`
 
 **Cloud, DevOps & Deployment:**  
 `AWS` `Docker` `Vercel` `Git/Github` `CI/CD`
