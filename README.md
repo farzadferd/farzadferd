@@ -9,7 +9,7 @@
 
 ### 💻 About Me
 
-- 🔭 I’m currently working on projects using **AWS**, **React**, **FastAPI**
+- 🔭 I’m currently working on projects using **AWS**, **React**, **FastAPI**, **Go**, and **AI**
 - 🧠 Interested in AI, cloud infrastructure, and scalable systems
 - 💻 Prev Software Engineer Intern at **Lexi**
 - 💬 Always happy to chat and learn about technology!
